@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Polytech Forecasting</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>🌦 Polytech Forecasting</h1>
+
+    <div class="search">
+      <input type="text" id="cityInput" placeholder="Enter city name...">
+      <button id="searchBtn">Search</button>
+      <button id="locBtn" title="Use My Location">📍</button>
+    </div>
+
+    <div id="weatherResult" class="weather-box"></div>
+
+    <h2>7-Day Forecast</h2>
+    <div id="forecast" class="forecast-container"></div>
+  </div>
+
+  <footer>
+    <p>Made with 💙 by <b>Polytech</b> | Powered by OpenWeather API</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
