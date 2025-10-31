@@ -1,0 +1,47 @@
+# 🌦 Polytech Forecasting
+
+**Polytech Forecasting** is a modern weather web application built with **HTML, CSS, and JavaScript**.  
+It provides **real-time weather updates**, **7-day forecasts**, and **automatic location detection** using the **OpenWeather API**.
+
+Live Demo 👉 [https://yourusername.github.io/polytech-forecasting/](https://yourusername.github.io/polytech-forecasting/)
+
+---
+
+## 🌍 Features
+
+✅ **Search by City Name**  
+Quickly find weather information for any city in the world.
+
+✅ **Auto Location Detection**  
+Uses your device’s GPS to automatically show weather in your current location.
+
+✅ **7-Day Forecast**  
+Displays a full week of weather predictions — temperature, humidity, and conditions.
+
+✅ **Dynamic Backgrounds**  
+The background changes depending on the weather (sunny, rainy, cloudy, etc.)
+
+✅ **Local Storage Memory**  
+Remembers your last searched city even after reloading.
+
+✅ **Responsive Design**  
+Works beautifully on both mobile and desktop.
+
+---
+
+## 🧰 Technologies Used
+
+| Category | Technology |
+|-----------|-------------|
+| Frontend | HTML5, CSS3, JavaScript (Vanilla) |
+| API | OpenWeatherMap API |
+| Hosting | GitHub Pages |
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/yourusername/polytech-forecasting.git
+   cd polytech-forecasting
